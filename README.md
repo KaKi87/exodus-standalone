@@ -4,6 +4,10 @@
 
 εxodus CLI client for local APK static analysis.
 
+## Android app
+
+An Android companion app is available under [`android-app/`](android-app/). It lets you pick an APK on your device and run the same Exodus static analysis locally. Debug and release APKs are built automatically by the [Android CI workflow](.github/workflows/android.yml) and published as GitHub Actions artifacts.
+
 ## Summary
 
 - [**Using Docker**](#using-docker)

@@ -1,0 +1,4 @@
+{
+  "name": "exodus-standalone",
+  "install": "sudo apt-get update && sudo apt-get install -y --no-install-recommends dexdump && pip install --break-system-packages -r requirements.txt flake8"
+}

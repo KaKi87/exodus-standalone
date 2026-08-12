@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">εxodus Analyzer</string>
+    <string name="select_apk">Select APK</string>
+    <string name="analyze">Analyze</string>
+    <string name="analyzing">Analyzing APK…</string>
+    <string name="no_apk_selected">No APK selected</string>
+    <string name="trackers_found">Trackers found: %1$d</string>
+    <string name="no_trackers_found">No trackers detected</string>
+    <string name="permissions_count">Permissions: %1$d</string>
+    <string name="error_title">Analysis failed</string>
+    <string name="retry">Retry</string>
+    <string name="share_report">Share JSON report</string>
+    <string name="app_info">Application info</string>
+    <string name="trackers_section">Detected trackers</string>
+    <string name="permissions_section">Permissions</string>
+    <string name="checksum">SHA-256</string>
+    <string name="version">Version</string>
+    <string name="package_name">Package</string>
+    <string name="subtitle">Local Exodus Privacy static analysis</string>
+</resources>

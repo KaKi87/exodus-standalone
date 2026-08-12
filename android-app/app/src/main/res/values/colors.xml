@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1B5E8C</color>
+    <color name="primary_dark">#0F3D5C</color>
+    <color name="accent">#E85D4C</color>
+    <color name="surface">#F5F7FA</color>
+    <color name="on_surface">#1A1C1E</color>
+    <color name="tracker_chip">#FFF3E0</color>
+    <color name="tracker_chip_text">#E65100</color>
+    <color name="ic_launcher_background">#1B5E8C</color>
+</resources>
